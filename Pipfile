@@ -8,6 +8,9 @@ jupyter = "*"
 pandas = "*"
 seaborn = "*"
 nltk = "*"
+plotly = "*"
+wordcloud = "*"
+spacy = "*"
 
 [dev-packages]
 
