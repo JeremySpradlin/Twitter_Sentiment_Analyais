@@ -11,6 +11,7 @@ nltk = "*"
 plotly = "*"
 wordcloud = "*"
 spacy = "*"
+pyldavis = "*"
 
 [dev-packages]
 
